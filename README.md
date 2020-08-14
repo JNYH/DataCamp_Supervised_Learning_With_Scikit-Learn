@@ -9,6 +9,5 @@ Chapter 3. Fine-tuning your model
 
 Chapter 4. Preprocessing and pipelines
 
-## Course Notes, Solutions and Answers:
+## Personal Notes:
 https://medium.com/analytics-vidhya/supervised-learning-with-scikit-learn-2514ff3e8dd1
-
